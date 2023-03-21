@@ -9,7 +9,7 @@ The main idea here is to get hands-on experience trying to use GitHub and learn 
 Submit 1 PR (Pull Request) per challenge.
 
 ## Challenges
-- [1.Trosc sub strings](./challenges/1-TroscSubString.py)
+- [1-TroscSubString.py](./challenges/1-TroscSubString.py)
 - [more to come](../../issues)...
 
 ---
