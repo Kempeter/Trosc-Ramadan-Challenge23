@@ -9,6 +9,6 @@ def TroscCheck():
 
 # This code is not working, can you help me fixing it?
 if TroscCheck():
-print("YES")
-else
-print("NO")
+    print("YES")
+else:
+    print("NO")
