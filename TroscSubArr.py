@@ -1,3 +1,4 @@
+# This function check if the inut string is subarray of the word "Trosc" or not
 def TroscCheck():
     s = "Trosc"
     c = input()
